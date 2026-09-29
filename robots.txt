@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://viktorotkin.github.io/sz-f52/sitemap.xml
